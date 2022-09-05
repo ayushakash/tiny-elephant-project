@@ -1,0 +1,170 @@
+export const data = [               
+    {
+        "id": "1",
+        "image": "/1.jpg",
+        "rate": "1200",
+        "name": "",
+        "address": "",
+        "beds":"5",
+        "bathroom":"3",
+        "area":"600",
+        "date":"",
+        "type":"House"
+    }, {
+        "id": "2",
+        "image": "/2.jpg",
+        "rate": "2400",
+        "name": "",
+        "address": "",
+        "beds":"5",
+        "bathroom":"3",
+        "area":"600",
+        "date":"",
+        "type":"House"
+    }, {
+        "id": "3",
+        "image": "/3.jpg",
+        "rate": "2800",
+        "name": "",
+        "address": "",
+        "beds":"5",
+        "bathroom":"3",
+        "area":"600",
+        "date":"",
+        "type":"Pent"
+    }, {
+        "id": "4",
+        "image": "/4.jpg",
+        "rate": "3000",
+        "name": "",
+        "address": "",
+        "beds":"5",
+        "bathroom":"3",
+        "area":"600",
+        "date":"",
+        "type":"Villa"
+    }, {
+        "id": "5",
+        "image": "/5.jpg",
+        "rate": "4500",
+        "name": "",
+        "address": "",
+        "beds":"5",
+        "bathroom":"3",
+        "area":"600",
+        "date":"",
+        "type":"Mansion"
+    }, {
+        "id": "6",
+        "image": "/6.jpg",
+        "rate": "3600",
+        "name": "",
+        "address": "",
+        "beds":"5",
+        "bathroom":"3",
+        "area":"600",
+        "date":"",
+        "type":"House"
+    }, {
+        "id": "7",
+        "image": "/7.jpg",
+        "rate": "3800",
+        "name": "",
+        "address": "",
+        "beds":"5",
+        "bathroom":"3",
+        "area":"600",
+        "date":"",
+        "type":"Mansion"
+    }, {
+        "id": "8",
+        "image": "/8.jpg",
+        "rate": "600",
+        "name": "",
+        "address": "",
+        "beds":"5",
+        "bathroom":"3",
+        "area":"600",
+        "date":"",
+        "type":"Villa"
+    }, {
+        "id": "9",
+        "image": "/9.jpg",
+        "rate": "960",
+        "name": "",
+        "address": "",
+        "beds":"5",
+        "bathroom":"3",
+        "area":"600",
+        "date":"",
+        "type":"pent"
+    }, {
+        "id": "10",
+        "image": "/10.jpg",
+        "rate": "550",
+        "name": "",
+        "address": "",
+        "beds":"5",
+        "bathroom":"3",
+        "area":"600",
+        "date":"",
+        "type":"Villa"
+    }, {
+        "id": "11",
+        "image": "/11.jpg",
+        "rate": "1650",
+        "name": "",
+        "address": "",
+        "beds":"5",
+        "bathroom":"3",
+        "area":"600",
+        "date":"",
+        "type":"Mansion"
+    }, {
+        "id": "12",
+        "image": "/12.jpg",
+        "rate": "890",
+        "name": "",
+        "address": "",
+        "beds":"5",
+        "bathroom":"3",
+        "area":"600",
+        "date":"",
+        "type":"House"
+    }, {
+        "id": "13",
+        "image": "/13.jpg",
+        "rate": "4200",
+        "name": "",
+        "address": "",
+        "beds":"5",
+        "bathroom":"3",
+        "area":"600",
+        "date":"",
+        "type":"Pent"
+    }, {
+        "id": "14",
+        "image": "/14.jpg",
+        "rate": "3900",
+        "name": "",
+        "address": "",
+        "beds":"5",
+        "bathroom":"3",
+        "area":"600",
+        "date":"",
+        "type":"Mansion"
+    }, {
+        "id": "15",
+        "image": "/15.jpg",
+        "rate": "4100",
+        "name": "",
+        "address": "",
+        "beds":"5",
+        "bathroom":"3",
+        "area":"600",
+        "date":"",
+        "type":"",
+        "date":"",
+        "type":"Mansion"
+    }   
+]
